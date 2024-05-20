@@ -1,5 +1,6 @@
 import Navbar from "../Shared/Navbar/Navbar";
 import Banner from "./Banner/Banner";
+import OurFeatures from "./Our Features/OurFeatures";
 
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
         <div>
             <Navbar></Navbar>
             <Banner></Banner>
+            <OurFeatures></OurFeatures>
         </div>
     );
 };

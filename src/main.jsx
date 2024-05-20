@@ -6,7 +6,9 @@ import { RouterProvider } from 'react-router-dom'
 import routes from './Routes/Routes.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+  <div className='bg-[#F5F7FB] font-poppins'>
+    <React.StrictMode>
     <RouterProvider router={routes}></RouterProvider>
   </React.StrictMode>,
+  </div>
 )
