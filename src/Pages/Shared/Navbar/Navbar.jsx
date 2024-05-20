@@ -66,7 +66,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div>
-          <Link><button className="p-2 w-[7rem] h-[2.875rem] bg-gradient-to-r from-[#02AAB0] rounded-md to-[#00CDAC]">Sign Up</button></Link>
+          <Link><button className="p-2 w-[7rem] h-[2.875rem] bg-gradient-to-r from-[#02AAB0]  to-[#00CDAC] rounded-md text-white">Sign Up</button></Link>
         </div>
       </div>
     </nav>
