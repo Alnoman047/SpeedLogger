@@ -24,10 +24,10 @@ const Banner = () => {
               <br /> Detailed Reports, and Expert Support. Stay Online Always.
             </p>
             <div className="flex gap-4">
-              <button className="w-[7.875rem] p-2 h-[2.875rem] bg-gradient-to-r from-[#02AAB0]  to-[#00CDAC] rounded-md">
+              <button className="w-[7.875rem] p-2 h-[2.875rem] bg-gradient-to-r from-[#02AAB0]  to-[#00CDAC]  rounded-md">
                 Sign Up
               </button>
-              <button className="w-[7.875rem] h-[2.875rem] rounded-md bg-white text-black">
+              <button className="w-[7.875rem] h-[2.875rem] rounded-md bg-white  text-black">
                 Learn More
               </button>
             </div>
